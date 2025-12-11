@@ -102,6 +102,7 @@ public class ExplorerController implements IExplorerController {
         if (path == null || path.isEmpty()) {
             return "Directory name can't be empty";
         }
+
         String[] parts = path.split("/");
         FolderInode folderCursor = currentFolder;
 

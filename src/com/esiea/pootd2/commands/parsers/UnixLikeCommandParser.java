@@ -22,7 +22,6 @@ public class UnixLikeCommandParser implements ICommandParser {
         return new ArrayList<>(Arrays.asList(parts));
     }
 
-    // Map string command to Command object
     private Command mapCommand(List<String> args) {
         String cmd = args.get(0);
 
