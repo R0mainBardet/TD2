@@ -62,6 +62,10 @@ L'application gere les cas d'erreur :
 
 Le projet est organise selon le package main.java.com.esiea.pootd2
 
+### Diagramme UML
+
+![Diagramme UML](UML.png)
+
 ### Dossier racine
 
     TD2/
