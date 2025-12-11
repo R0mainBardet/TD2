@@ -60,7 +60,7 @@ L'application gere les cas d'erreur :
 
 ## Architecture du projet
 
-Le projet est organise selon le package main.java.com.esiea.pootd2
+Le projet est organise selon le package com.esiea.pootd2
 
 ### Diagramme UML
 
